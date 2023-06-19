@@ -3,6 +3,10 @@
 ## List of questions
 https://www.techinterviewhandbook.org/grind75?weeks=26&hours=7
 
+## Index
+
+Find all the completed questions [here](/index.md)
+
 ## Template
 ```
 # <url to LeetCode>
