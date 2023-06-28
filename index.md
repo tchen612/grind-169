@@ -6,6 +6,11 @@
 - [Best Time to Buy and Sell Stock](/best-time-to-buy-and-sell-stock.py)
 - [Two Sum](/two-sum.py)
 
+## Binary Tree
+
+### Easy
+- [Invert Binary Tree](/invert-binary-tree.py)
+
 ## Linked List
 
 ### Easy
