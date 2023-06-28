@@ -24,4 +24,5 @@
 ## String
 
 ### Easy
+- [Valid Anagram](/valid-anagram.py)
 - [Valid Palindrome](/valid-palindrome.py)
