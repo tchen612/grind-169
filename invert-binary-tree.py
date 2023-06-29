@@ -2,7 +2,8 @@
 # Topic: Binary Tree
 # Difficulty: Easy
 
-from typing import Collection, Optional
+from typing import Optional
+from collections import deque
 
 # Definition for a binary tree node.
 class TreeNode:
@@ -19,7 +20,7 @@ class Solution:
         if root:
             right = self.invertTree(root.right)
             left = self.invertTree(root.left)
-            
+
             root.left = right
             root.right = left
 
@@ -31,7 +32,7 @@ class Solution:
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         if root:
-            queue = Collection.deque([root])
+            queue = deque([root])
             while queue:
                 current = queue.popleft()
                 current.left, current.right = current.right, current.left
