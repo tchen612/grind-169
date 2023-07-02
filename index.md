@@ -11,6 +11,11 @@
 ### Easy
 - [Binary Search](/binary-search.py)
 
+## Binary Search Tree
+
+### Medium
+- [Lowest Common Ancestor of a Binary Search Tree](/lowest-common-ancestor-of-a-binary-search-tree.py)
+
 ## Binary Tree
 
 ### Easy
