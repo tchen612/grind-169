@@ -19,6 +19,7 @@
 ## Binary Tree
 
 ### Easy
+- [Balanced Binary Tree](/balanced-binary-tree.py)
 - [Invert Binary Tree](/invert-binary-tree.py)
 
 ## Graph
