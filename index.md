@@ -30,6 +30,7 @@
 ## Linked List
 
 ### Easy
+- [Linked List Cycle](/linked-list-cycle.py)
 - [Merge Two Sorted Lists](/merge-two-sorted-lists.py)
 
 ## Stack
