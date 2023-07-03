@@ -36,6 +36,7 @@
 ## Stack
 
 ### Easy
+- [Implement Queue using Stacks](/implement-queue-using-stacks.py)
 - [Valid Parentheses](/valid-parentheses.py)
 
 ## String
