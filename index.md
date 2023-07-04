@@ -10,6 +10,7 @@
 
 ### Easy
 - [Binary Search](/binary-search.py)
+- [First Bad Version](/first-bad-version.py)
 
 ## Binary Search Tree
 
