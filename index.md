@@ -23,6 +23,11 @@
 - [Balanced Binary Tree](/balanced-binary-tree.py)
 - [Invert Binary Tree](/invert-binary-tree.py)
 
+## Dynamic Programming
+
+### Easy
+- [Climbing Stairs](/climbing-stairs.py)
+
 ## Graph
 
 ### Easy
