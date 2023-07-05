@@ -28,6 +28,11 @@
 ### Easy
 - [Flood Fill](/flood-fill.py)
 
+## Hash Table
+
+### Easy
+- [Ransom Note](/ransom-note.py)
+
 ## Linked List
 
 ### Easy
