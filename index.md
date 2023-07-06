@@ -53,5 +53,6 @@
 ## String
 
 ### Easy
+- [Longest Palindrome](/longest-palindrome.py)
 - [Valid Anagram](/valid-anagram.py)
 - [Valid Palindrome](/valid-palindrome.py)
