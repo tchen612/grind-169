@@ -4,6 +4,7 @@
 
 ### Easy
 - [Best Time to Buy and Sell Stock](/best-time-to-buy-and-sell-stock.py)
+- [Majority Element](/majority-element.py)
 - [Two Sum](/two-sum.py)
 
 ## Binary Search
