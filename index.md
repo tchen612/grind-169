@@ -7,6 +7,11 @@
 - [Majority Element](/majority-element.py)
 - [Two Sum](/two-sum.py)
 
+## Binary
+
+### Easy
+- [Add Binary](/add-binary.py)
+
 ## Binary Search
 
 ### Easy
