@@ -27,6 +27,7 @@
 
 ### Easy
 - [Balanced Binary Tree](/balanced-binary-tree.py)
+- [Diameter of Binary Tree](/diameter-of-binary-tree.py)
 - [Invert Binary Tree](/invert-binary-tree.py)
 
 ## Dynamic Programming
