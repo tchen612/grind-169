@@ -50,6 +50,7 @@
 ### Easy
 - [Linked List Cycle](/linked-list-cycle.py)
 - [Merge Two Sorted Lists](/merge-two-sorted-lists.py)
+- [Middle of the Linked List](/middle-of-the-linked-list.py)
 - [Reverse Linked List](/reverse-linked-list.py)
 
 ## Stack
