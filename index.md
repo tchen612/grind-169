@@ -29,6 +29,7 @@
 - [Balanced Binary Tree](/balanced-binary-tree.py)
 - [Diameter of Binary Tree](/diameter-of-binary-tree.py)
 - [Invert Binary Tree](/invert-binary-tree.py)
+- [Maximum Depth of Binary Tree](/maximum-depth-of-binary-tree.py)
 
 ## Dynamic Programming
 
