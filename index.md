@@ -6,6 +6,7 @@
 - [Best Time to Buy and Sell Stock](/best-time-to-buy-and-sell-stock.py)
 - [Contains Duplicate](/contains-duplicate.py)
 - [Majority Element](/majority-element.py)
+- [Meeting Rooms](/meeting-rooms.py)
 - [Two Sum](/two-sum.py)
 
 ## Binary
