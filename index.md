@@ -64,6 +64,7 @@
 ## Stack
 
 ### Easy
+- [Backspace String Compare](/backspace-string-compare.py)
 - [Implement Queue using Stacks](/implement-queue-using-stacks.py)
 - [Valid Parentheses](/valid-parentheses.py)
 
