@@ -7,6 +7,8 @@ https://www.techinterviewhandbook.org/grind75?weeks=26&hours=7
 
 Find all the completed questions [here](/index.md)
 
+Find all the questions I need to brush up on [here](/brush-up.md)
+
 ## Template
 ```
 # <url to LeetCode>

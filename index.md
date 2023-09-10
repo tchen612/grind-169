@@ -13,6 +13,7 @@
 
 ### Easy
 - [Add Binary](/add-binary.py)
+- [Counting Bits](/counting-bits.py)
 
 ## Binary Search
 
