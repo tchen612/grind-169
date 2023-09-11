@@ -33,6 +33,7 @@
 - [Diameter of Binary Tree](/diameter-of-binary-tree.py)
 - [Invert Binary Tree](/invert-binary-tree.py)
 - [Maximum Depth of Binary Tree](/maximum-depth-of-binary-tree.py)
+- [Same Tree](/same-tree.py)
 
 ## Dynamic Programming
 
