@@ -14,6 +14,7 @@
 ### Easy
 - [Add Binary](/add-binary.py)
 - [Counting Bits](/counting-bits.py)
+- [Number of 1 Bits](/number-of-1-bits.py)
 
 ## Binary Search
 
