@@ -10,8 +10,8 @@ class ListNode:
         self.val = val
         self.next = next
 
-# Time Complexity: O(
-# Space Complexity: O(
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
         slow = fast = head

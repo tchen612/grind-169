@@ -74,6 +74,7 @@
 ## String
 
 ### Easy
+- [Longest Common Prefix](/longest-common-prefix.py)
 - [Longest Palindrome](/longest-palindrome.py)
 - [Valid Anagram](/valid-anagram.py)
 - [Valid Palindrome](/valid-palindrome.py)
