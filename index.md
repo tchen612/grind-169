@@ -7,6 +7,7 @@
 - [Contains Duplicate](/contains-duplicate.py)
 - [Majority Element](/majority-element.py)
 - [Meeting Rooms](/meeting-rooms.py)
+- [Move Zeroes](/move-zeroes.py)
 - [Two Sum](/two-sum.py)
 
 ## Binary
