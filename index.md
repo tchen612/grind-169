@@ -37,6 +37,7 @@
 - [Invert Binary Tree](/invert-binary-tree.py)
 - [Maximum Depth of Binary Tree](/maximum-depth-of-binary-tree.py)
 - [Same Tree](/same-tree.py)
+- [Symmetric Tree](/symmetric-tree.py)
 
 ## Dynamic Programming
 
