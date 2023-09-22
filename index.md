@@ -67,6 +67,7 @@
 ## Math
 
 ### Easy
+- [Palindrome Number](/palindrome-number.py)
 - [Roman to Integer](/roman-to-integer.py)
 
 ## Stack
