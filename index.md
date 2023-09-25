@@ -17,6 +17,7 @@
 - [Counting Bits](/counting-bits.py)
 - [Missing Number](/missing-number.py)
 - [Number of 1 Bits](/number-of-1-bits.py)
+- [Reverse Bits](/reverse-bits.py)
 - [Single Number](/single-number.py)
 
 ## Binary Search
