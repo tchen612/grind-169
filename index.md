@@ -8,6 +8,7 @@
 - [Majority Element](/majority-element.py)
 - [Meeting Rooms](/meeting-rooms.py)
 - [Move Zeroes](/move-zeroes.py)
+- [Squares of a Sorted Array](/squares-of-a-sorted-array.py)
 - [Two Sum](/two-sum.py)
 
 ## Binary
