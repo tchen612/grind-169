@@ -11,6 +11,9 @@
 - [Squares of a Sorted Array](/squares-of-a-sorted-array.py)
 - [Two Sum](/two-sum.py)
 
+### Medium
+-[Insert Interval](/insert-interval.py)
+
 ## Binary
 
 ### Easy
