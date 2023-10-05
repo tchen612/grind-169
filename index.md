@@ -60,6 +60,9 @@
 ### Easy
 - [Flood Fill](/flood-fill.py)
 
+### Medium
+- [01 Matrix](/01-matrix.py)
+
 ## Hash Table
 
 ### Easy
