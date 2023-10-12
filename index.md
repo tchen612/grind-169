@@ -68,6 +68,11 @@
 ### Easy
 - [Ransom Note](/ransom-note.py)
 
+## Heap
+
+### Medium
+- [K Closest Points to Origin](/k-closest-points-to-origin.py)
+
 ## Linked List
 
 ### Easy
