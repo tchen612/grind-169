@@ -102,3 +102,6 @@
 - [Longest Palindrome](/longest-palindrome.py)
 - [Valid Anagram](/valid-anagram.py)
 - [Valid Palindrome](/valid-palindrome.py)
+
+### Medium
+- [Longest Substring Without Repeating Characters](/longest-substring-without-repeating-characters.py)
