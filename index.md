@@ -12,7 +12,8 @@
 - [Two Sum](/two-sum.py)
 
 ### Medium
--[Insert Interval](/insert-interval.py)
+- [3Sum](/3sum.py)
+- [Insert Interval](/insert-interval.py)
 
 ## Binary
 
