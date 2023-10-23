@@ -48,6 +48,9 @@
 - [Subtree of Another Tree](/subtree-of-another-tree.py)
 - [Symmetric Tree](/symmetric-tree.py)
 
+### Medium
+- [Binary Tree Level Order Traversal](/binary-tree-level-order-traversal.py)
+
 ## Dynamic Programming
 
 ### Easy
