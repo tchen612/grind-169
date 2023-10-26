@@ -100,6 +100,9 @@
 - [Implement Queue using Stacks](/implement-queue-using-stacks.py)
 - [Valid Parentheses](/valid-parentheses.py)
 
+### Medium
+-[Evaluate Reverse Polish Notation](/evaluate-reverse-polish-notation.py)
+
 ## String
 
 ### Easy
