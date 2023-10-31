@@ -1,0 +1,34 @@
+# https://leetcode.com/problems/course-schedule/
+# Topic: Graph
+# Difficulty: Medium
+
+from collections import deque
+
+# Time Complexity: O(m+n)
+# Space Complexity: O(m+n)
+class Solution:
+    def canFinish(self, numCourses: int, prerequisites: list[list[int]]) -> bool:
+        indegree = [0] * numCourses
+        adj = [[] for _ in range(numCourses)]
+
+        for prerequisite in prerequisites:
+            adj[prerequisite[1]].append(prerequisite[0])
+            indegree[prerequisite[0]] += 1
+
+        queue = deque()
+        for i in range(numCourses):
+            if indegree[i] == 0:
+                queue.append(i)
+
+        nodesVisited = 0
+        while queue:
+            node = queue.popleft()
+            nodesVisited += 1
+
+            for neighbor in adj[node]:
+                indegree[neighbor] -= 1
+                if indegree[neighbor] == 0:
+                    queue.append(neighbor)
+
+        return nodesVisited == numCourses
+        

@@ -67,6 +67,7 @@
 ### Medium
 - [01 Matrix](/01-matrix.py)
 - [Clone Graph](/clone-graph.py)
+- [Course Schedule](/course-schedule.py)
 
 ## Hash Table
 
