@@ -114,3 +114,8 @@
 
 ### Medium
 - [Longest Substring Without Repeating Characters](/longest-substring-without-repeating-characters.py)
+
+## Trie
+
+### Medium
+- [Implement Trie (Prefix Tree)](/implement-trie-prefix-tree.py)
