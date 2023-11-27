@@ -57,7 +57,8 @@
 - [Climbing Stairs](/climbing-stairs.py)
 
 ### Medium
--[Maximum Subarray](/maximum-subarray.py)
+- [Maximum Subarray](/maximum-subarray.py)
+- [Coin Change](/coin-change.py)
 
 ## Graph
 
