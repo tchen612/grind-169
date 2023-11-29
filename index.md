@@ -14,6 +14,7 @@
 ### Medium
 - [3Sum](/3sum.py)
 - [Insert Interval](/insert-interval.py)
+- [Product of Array Except Self](/product-of-array-except-self.py)
 
 ## Binary
 

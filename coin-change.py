@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/coin-change/
-# Topic: Dynamic Prograaming
+# Topic: Dynamic Programming
 # Difficulty: Medium
 
 # Time Complexity: O(S * n), where S is the amount and n is the number of different coins
