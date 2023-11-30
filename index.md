@@ -104,7 +104,8 @@
 - [Valid Parentheses](/valid-parentheses.py)
 
 ### Medium
--[Evaluate Reverse Polish Notation](/evaluate-reverse-polish-notation.py)
+- [Evaluate Reverse Polish Notation](/evaluate-reverse-polish-notation.py)
+- [Min Stack](/min-stack.py)
 
 ## String
 
