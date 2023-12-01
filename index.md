@@ -37,6 +37,7 @@
 ### Medium
 - [Convert Sorted Array to Binary Search Tree](/convert-sorted-array-to-binary-search-tree.py)
 - [Lowest Common Ancestor of a Binary Search Tree](/lowest-common-ancestor-of-a-binary-search-tree.py)
+- [Validate Binary Search Tree](/validate-binary-search-tree.py)
 
 ## Binary Tree
 
