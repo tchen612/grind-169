@@ -72,6 +72,7 @@
 - [Clone Graph](/clone-graph.py)
 - [Course Schedule](/course-schedule.py)
 - [Number of Islands](/number-of-islands.py)
+- [Rotting Oranges](/rotting-oranges.py)
 
 ## Hash Table
 
