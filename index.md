@@ -32,6 +32,9 @@
 - [Binary Search](/binary-search.py)
 - [First Bad Version](/first-bad-version.py)
 
+### Medium
+- [Search in Rotated Sorted Array](/search-in-rotated-sorted-array.py)
+
 ## Binary Search Tree
 
 ### Medium
