@@ -103,6 +103,11 @@
 - [Palindrome Number](/palindrome-number.py)
 - [Roman to Integer](/roman-to-integer.py)
 
+## Recursion
+
+### Medium
+- [Permutations](/permutations.py)
+
 ## Stack
 
 ### Easy
