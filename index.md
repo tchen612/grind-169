@@ -15,6 +15,7 @@
 - [3Sum](/3sum.py)
 - [Combination Sum](/combination-sum.py)
 - [Insert Interval](/insert-interval.py)
+- [Merge Intervals](/merge-intervals.py)
 - [Product of Array Except Self](/product-of-array-except-self.py)
 
 ## Binary
